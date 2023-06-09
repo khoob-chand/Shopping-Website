@@ -1,0 +1,87 @@
+
+.backgroundodproductpage{
+    background-color: rgb(18, 169, 240)!important;
+    width:100vw;
+    height:100vh;
+    margin-top:0px!important;
+    display:flex;
+    align-items: center;
+}
+
+.formtoaddproduct{
+    width:30%!important;
+    border:1px solid black;
+
+    
+    
+}
+.widthofsubmit{
+    width:100%!important;
+ 
+}
+.form-check-input121{
+    width: 100%!important;
+    height: 5vh!important;
+  
+}
+.fileofimage{
+    padding-left:0px!important;
+    margin-bottom:10px!important;
+}
+.productpage{
+    width:fit-content;
+    padding:3px;
+    padding-left:4rem!important;
+    padding-right:4rem!important;
+    background-color:rgb(240, 220, 110);
+    
+}
+
+.flexofproduct{
+    display: flex;
+    justify-content: center;
+    cursor:pointer;
+}
+a{
+    text-decoration: none!important;
+}
+a:hover{
+    color:rgb(126, 99, 248)!important;
+}
+.card-img-top{
+height:15rem;
+}
+.card-btn{
+    width:100%!important;
+    background-color: rgb(247, 197, 72)!important;
+}
+
+.colorofdetail{
+    color:rgb(76, 76, 238)!important;
+}
+
+.alert{
+    
+    padding: 6px 3rem!important;
+    
+    width: 100%!important;
+}
+.cutomer{
+    padding:0px!important;
+}
+.ordertable{
+    width:40%!important;
+    margin:0px!important;
+    padding:0px!important;
+    display:flex!important;
+    justify-content: center!important;
+}
+.alert-success{
+    background-color: none!important;
+    border:none!important;
+}
+.borderofcart{
+    border:1px solid rgb(20, 149, 158)!important;
+}
+
+
